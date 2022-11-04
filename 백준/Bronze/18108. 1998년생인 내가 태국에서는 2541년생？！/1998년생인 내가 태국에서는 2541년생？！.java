@@ -5,6 +5,7 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         int a;
         a = sc.nextInt();
+        sc.close();
         System.out.print(a - 543);
     }
 }
