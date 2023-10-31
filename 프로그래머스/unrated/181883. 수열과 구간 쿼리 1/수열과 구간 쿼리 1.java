@@ -7,10 +7,8 @@ class Solution {
             s = queries[i][0];
             e = queries[i][1];
             
-            for(int j = 0; j < arr.length; j++){
-                if((j >= s) && (j <= e)){
-                    arr[j]++;
-                }
+            for(int j = s; j <= e; j++){
+                arr[j]++;
             }
         }
         
