@@ -1,10 +1,10 @@
 # [level unrated] 배열의 원소만큼 추가하기 - 181861 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861#) 
 
 ### 성능 요약
 
-메모리: 83.5 MB, 시간: 1.76 ms
+메모리: 70.5 MB, 시간: 1.95 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2023년 11월 0일 9:22:31
+2023년 11월 0일 9:23:44
 
 ### 문제 설명
 
